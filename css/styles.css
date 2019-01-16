@@ -113,6 +113,10 @@ p {
 
 #OssamaMain {
     border-radius: 100%;
+    height: auto;
+    width: auto;
+    max-width: 185px;
+    max-height: 185px;
 }
 
 #mainOssama {
